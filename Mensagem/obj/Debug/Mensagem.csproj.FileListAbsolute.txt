@@ -1,0 +1,7 @@
+C:\Users\placi\Desktop\Estudo\DotNet\Mensagem\Mensagem\obj\Debug\Mensagem.csprojAssemblyReference.cache
+C:\Users\placi\Desktop\Estudo\DotNet\Mensagem\Mensagem\obj\Debug\Mensagem.csproj.CoreCompileInputs.cache
+C:\Users\placi\Desktop\Estudo\DotNet\Mensagem\Mensagem\bin\Debug\Mensagem.exe.config
+C:\Users\placi\Desktop\Estudo\DotNet\Mensagem\Mensagem\bin\Debug\Mensagem.exe
+C:\Users\placi\Desktop\Estudo\DotNet\Mensagem\Mensagem\bin\Debug\Mensagem.pdb
+C:\Users\placi\Desktop\Estudo\DotNet\Mensagem\Mensagem\obj\Debug\Mensagem.exe
+C:\Users\placi\Desktop\Estudo\DotNet\Mensagem\Mensagem\obj\Debug\Mensagem.pdb
